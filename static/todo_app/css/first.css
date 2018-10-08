@@ -77,11 +77,12 @@ h4{
     margin-right: 110px;
 }
 footer {
-    margin-top: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     color: white;
-    padding-left: 1100px;
-    allign: right;
-}
+    text-align: center;}
 #top_bar{
      background: url("/static/images/top.jpg") no-repeat;
      color: black;
